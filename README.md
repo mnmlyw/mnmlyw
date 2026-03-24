@@ -3,7 +3,7 @@
 - [nimi](https://mnmlyw.github.io/nimi/) — toki pona flashcards
 - [keypad](https://mnmlyw.github.io/keypad/) — text to phone keypad digits
 - [matcha](https://github.com/mnmlyw/matcha) — macos text editor · zig + swiftui
-- [pico-z](https://github.com/mnmlyw/pico-z) — pico-8 emulator with save states
+- [pico-z](https://mnmlyw.github.io/pico-z/) — pico-8 emulator with save states
 - [picoshop](https://github.com/mnmlyw/picoshop) — pico-8 sprite converter
 - [nanogame](https://github.com/mnmlyw/nanogame) — small js game library
 - [sip](https://github.com/mnmlyw/sip) — tiny package manager
