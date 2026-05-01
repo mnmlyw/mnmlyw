@@ -1,4 +1,4 @@
-- [hum](https://mnmlyw.github.io/hum/) — fantasy synth in a single html file · type, hear music
+- [hum](https://mnmlyw.github.io/hum/) — fantasy synth in a single html file
 - [1x1png](https://mnmlyw.github.io/1x1png/) — solid color png generator
 - [kana](https://mnmlyw.github.io/kana/) — japanese kana flashcards
 - [nimi](https://mnmlyw.github.io/nimi/) — toki pona flashcards
